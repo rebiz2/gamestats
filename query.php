@@ -1,0 +1,4 @@
+<?
+//HLDS Query Class
+
+?>
